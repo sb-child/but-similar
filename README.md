@@ -6,6 +6,8 @@ Another solution for https://github.com/sb-child/for-you
 
 嗯... sb-child/but-similar 意思就是和我比较像嘛，但那不是我。
 
+或者你可以直接用我最新的 [solution](SKILL.md)。
+
 这就是我不应该自杀的理由[之一](https://github.com/sb-child/for-you/issues/1)吧。
 
 ## showcase
